@@ -15,6 +15,7 @@
 		1C77C58322EE4EA700033999 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C77C58122EE4EA700033999 /* LaunchScreen.storyboard */; };
 		1C77C58E22EE4EA700033999 /* PlanetRealtorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C77C58D22EE4EA700033999 /* PlanetRealtorTests.swift */; };
 		1C77C59922EE4EA700033999 /* PlanetRealtorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C77C59822EE4EA700033999 /* PlanetRealtorUITests.swift */; };
+		1C77C5A722EE4F7300033999 /* iu.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1C77C5A622EE4F7300033999 /* iu.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1C77C59422EE4EA700033999 /* PlanetRealtorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlanetRealtorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C77C59822EE4EA700033999 /* PlanetRealtorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetRealtorUITests.swift; sourceTree = "<group>"; };
 		1C77C59A22EE4EA700033999 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C77C5A622EE4F7300033999 /* iu.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = iu.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				1C77C57822EE4EA700033999 /* art.scnassets */,
 				1C77C57A22EE4EA700033999 /* ViewController.swift */,
 				1C77C57C22EE4EA700033999 /* Main.storyboard */,
+				1C77C5A622EE4F7300033999 /* iu.jpeg */,
 				1C77C57F22EE4EA700033999 /* Assets.xcassets */,
 				1C77C58122EE4EA700033999 /* LaunchScreen.storyboard */,
 				1C77C58422EE4EA700033999 /* Info.plist */,
@@ -236,6 +239,7 @@
 				1C77C58322EE4EA700033999 /* LaunchScreen.storyboard in Resources */,
 				1C77C58022EE4EA700033999 /* Assets.xcassets in Resources */,
 				1C77C57E22EE4EA700033999 /* Main.storyboard in Resources */,
+				1C77C5A722EE4F7300033999 /* iu.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
